@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @chuanlog
+#👋 Hi, I’m @chuanlog, an undergraduate at **South China University of Technology** who major in **Computer Science and Technology**.
